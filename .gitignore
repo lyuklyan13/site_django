@@ -1,0 +1,19 @@
+# Database file
+db.sqlite3
+
+# Mdeia files
+media/
+
+# Settings for JetBrains IDEs (e.g., PyCharm, IntelliJ IDEA)
+.idea/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+
+venv/
+.venv/
+env/
+
+.env
