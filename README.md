@@ -10,6 +10,10 @@ the **Django MVT (Model-View-Template)** architectural pattern, showcasing clean
 efficient relational database interactions via Django ORM, and a structured, server-side  
 rendered (SSR) frontend interface using HTML5 and CSS3.  
 
+![Home](img/img1.png)
+![Home](img/img2.png)
+
+
 
 ## ✨ Highlights & Key Features
 
